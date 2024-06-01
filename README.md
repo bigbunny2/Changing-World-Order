@@ -296,3 +296,48 @@ The following sections show the detailed results of each main category with both
 ![Wellbeing Data Over Years](Graphs/wellbeing_aggregate.png)
 
 
+# Final Aggregate Dataset
+
+| Year |     China     |   United States   |
+|------|---------------|-------------------|
+| 2000 |  -1.007121    |   -0.294041       |
+| 2001 |  -0.988981    |   -0.271986       |
+| 2002 |  -1.215480    |   -0.215894       |
+| 2003 |  -1.189477    |   -0.190510       |
+| 2004 |  -1.159544    |   -0.132084       |
+| 2005 |  -1.125764    |   -0.088552       |
+| 2006 |  -1.094835    |   -0.058432       |
+| 2007 |  -1.064371    |   -0.023594       |
+| 2008 |  -1.082303    |   -0.016902       |
+| 2009 |  -1.093785    |    0.001352       |
+| 2010 |  -1.065153    |    0.032769       |
+| 2011 |  -1.040992    |    0.048136       |
+| 2012 |  -1.007218    |    0.071160       |
+| 2013 |  -0.972165    |    0.091878       |
+| 2014 |  -0.931333    |    0.117340       |
+| 2015 |  -0.895158    |    0.141544       |
+| 2016 |  -0.860206    |    0.167134       |
+| 2017 |  -0.818991    |    0.193795       |
+| 2018 |  -0.785080    |    0.219193       |
+| 2019 |  -0.753726    |    0.243862       |
+| 2020 |  -0.723619    |    0.269361       |
+| 2021 |  -0.694476    |    0.292383       |
+| 2022 |  -0.666528    |    0.316420       |
+
+![Final Data Over Years](Graphs/final_aggregated_dataset.png)
+
+
+# Conclusion
+Though much of our data has been inferred, it still seems to all paint a similar picture. Through each of the categories with the exception of Rule of Law, there is a somwhat consistent pattern to note.
+
+China typically starts at either an almost even position, or much lower than the US, with the 2010's to late 2020's seeing a significant increase in status for them, that then continues to grow  (of course, using a linear regression model positive growth will be applied for all future years when in reality this is often not the case). 
+
+China ends up taking the lead from the US by 2050 in some major categories, such as Wellbeing, Global Thinking and most apparently Education. The only category where this pattern is not followed is the Rule of Law Section. In fairness, Rule of Law had by far the least data available on it so the most of it was extrapolated compared to other sections.
+
+The US is extremely erratic in its placements. It typically starts almost even, or with a large lead, with positive growth that seems to reach a peak in 2020, before dipping and continuing positive growth albeit at a lower rate. Indeed, it isn't that the U.S is dropping steadily in any metric (apart from Wellbeing, which also has data magnitude on par of Rule of Law), it's simply slowing down.  The exceptions are Global thinking and Economics, where the US manages to stay very close to or stay ahead of China in the end.
+
+The weightage of Economics is what ends up putting the US over China in the end, but it is clear that China's overall rate of growth is not only higher, but more balanced through each category.
+
+Perhaps the most significant finding of this was that COVID indeed played a tremendous role in the global standing of these nations. Although China's growth didn't improve from COVID (and it indeed witnessed a drop for around 2 years in important categories) it hasn't slowed down nearly as much as the US in terms of its growth since. The US meanwhile shows slightly to much lower growths in every category apart from Global Thinking. 
+
+In conclusion, what's to come is more up in the air than ever. This study with all my biases on weightage and categories at least, seems to idicate that there will be a time in my life where China does overtake the US as the dominant power on the globe. 
