@@ -125,3 +125,74 @@ The weightage is out of 100. Weightage for each category is given below
 
 
 
+# Aggregating Datasets
+
+The weightage for each subcategory was applied to corresponding datasets, which means multiplying each data element in the datasets with the corresponding weights. This weighted data elements for each year is added for every subcategory to produce the single dataset for each category, producing one aggregated datset for each main category. 
+
+### Producing the Final Single Dataset
+
+The above procedure is repeated using the weights for each main category mentioned above to produce the final aggregated dataset for China and United States from the Years 2000 - 2050. 
+
+# Final Results
+
+The following sections show the detailed results of each main category with both tabular data and the graph.
+
+### Economics
+
+| Year |     China     |       US       |
+|------|---------------|----------------|
+| 2000 |  -0.802798    |   0.001134     |
+| 2001 |  -0.794458    |  -0.017690     |
+| 2002 |  -1.275411    |   0.041165     |
+| 2003 |  -1.262873    |   0.041098     |
+| 2004 |  -1.242475    |   0.090281     |
+| 2005 |  -1.208929    |   0.116144     |
+| 2006 |  -1.182445    |   0.142763     |
+| 2007 |  -1.148904    |   0.169036     |
+| 2008 |  -1.150178    |   0.195334     |
+| 2009 |  -1.184254    |   0.222198     |
+| 2010 |  -1.146470    |   0.247931     |
+| 2011 |  -1.119249    |   0.272015     |
+| 2012 |  -1.085215    |   0.296132     |
+| 2013 |  -1.049788    |   0.320635     |
+| 2014 |  -1.010645    |   0.344640     |
+| 2015 |  -0.976145    |   0.369105     |
+| 2016 |  -0.943409    |   0.393291     |
+| 2017 |  -0.902210    |   0.418079     |
+| 2018 |  -0.871216    |   0.442739     |
+| 2019 |  -0.842695    |   0.467431     |
+| 2020 |  -0.815407    |   0.491946     |
+| 2021 |  -0.789927    |   0.515832     |
+| 2022 |  -0.765522    |   0.539711     |
+
+![Economic Aggregate Data Over Years](Graphs/economic_aggregate.png)
+
+### Rule of Law
+
+| Year |     China     |       USA       |
+|------|---------------|-----------------|
+| 2000 |  -0.970686    |   0.145263      |
+| 2001 |  -0.969551    |   0.206567      |
+| 2002 |  -0.968416    |   0.237223      |
+| 2003 |  -0.967280    |   0.267879      |
+| 2004 |  -0.966145    |   0.405556      |
+| 2005 |  -0.965010    |   0.543234      |
+| 2006 |  -0.963875    |   0.680911      |
+| 2007 |  -0.962740    |   0.818589      |
+| 2008 |  -0.961605    |   0.956266      |
+| 2009 |  -0.960470    |   1.093944      |
+| 2010 |  -0.959335    |   1.231621      |
+| 2011 |  -0.958200    |   1.369299      |
+| 2012 |  -0.957065    |   1.506976      |
+| 2013 |  -0.955930    |   1.644654      |
+| 2014 |  -0.954795    |   1.782331      |
+| 2015 |  -0.953660    |   1.920009      |
+| 2016 |  -0.952525    |   2.057686      |
+| 2017 |  -0.951390    |   2.195364      |
+| 2018 |  -0.950255    |   2.333041      |
+| 2019 |  -0.949120    |   2.470719      |
+| 2020 |  -0.947985    |   2.608396      |
+| 2021 |  -0.946850    |   2.746074      |
+| 2022 |  -0.945715    |   2.883751      |
+
+![Rule of Law Data Over Years](Graphs/rule_of_law_aggregate.png)
