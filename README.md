@@ -340,4 +340,41 @@ The weightage of Economics is what ends up putting the US over China in the end,
 
 Perhaps the most significant finding of this was that COVID indeed played a tremendous role in the global standing of these nations. Although China's growth didn't improve from COVID (and it indeed witnessed a drop for around 2 years in important categories) it hasn't slowed down nearly as much as the US in terms of its growth since. The US meanwhile shows slightly to much lower growths in every category apart from Global Thinking. 
 
-In conclusion, what's to come is more up in the air than ever. This study with all my biases on weightage and categories at least, seems to idicate that there will be a time in my life where China does overtake the US as the dominant power on the globe. 
+In conclusion, what's to come is more up in the air than ever. This study with all my biases on weightage and categories at least, seems to idicate that there will be a time in my life where China does overtake the US as the dominant power on the globe. I studied this because it's a phenomenon that happens throughout history, indeed it was the US who took the throne last in the 1940's from the British, who took it from the Dutch, who took it from the Spanish, who took it from...Chinese. 
+
+However what will end up happening is still on all of us to wait, no amount of Analysis can ever make up for the sheer randomness this world and its people provides. If you made it all the way through I thank you for reading, and shall take my leave.
+
+
+# References
+
+- Innovation Index Score - https://www.wipo.int/global_innovation_index/en/ 
+
+- Graduations  
+US - http://en.moe.gov.cn/documents/statistics/2022/national/202401/t20240110_1099530.html, https://www.statista.com/statistics/238164/bachelors-degree-recipients-in-the-us/, https://www.statista.com/topics/2245/higher-education-graduation-in-the-us/#statisticChapter 
+China - http://en.moe.gov.cn/documents/statistics/2022/national/202401/t20240110_1099530.html 
+
+- Life Expectancy - https://www.who.int/data/gho/data/indicators/indicator-details/GHO/life-expectancy-at-birth-(years) 
+
+-  Voter Turnout - https://www.idea.int/data-tools/data/voter-turnout-database 
+https://www.statista.com/topics/1247/chinese-communist-party/#topicOverview 
+
+- GINI Wealth Gap
+https://en.wikipedia.org/wiki/List_of_sovereign_states_by_wealth_inequality 
+
+- Crime Rates (Murder and Violent Crime) - https://www.macrotrends.net/countries/USA/united-states/murder-homicide-rate 
+
+- Control of Corruption -  
+https://www.worldbank.org/en/publication/worldwide-governance-indicators/interactive-data-access 
+
+- Labor Productivity - https://ilostat.ilo.org/topiScorescs/labour-productivity/# 
+
+- Infrastructure Spending and Effectiveness - https://www.fitchsolutions.com/bmi/infrastructure-key-projects-data
+
+- Travel and Tourism - ​​https://data.worldbank.org/indicator/ST.INT.ARVL?locations=US-CN&name_desc=false 
+
+- Globalization Index - https://kof.ethz.ch/en/forecasts-and-indicators/indicators/kof-globalisation-index.html  
+
+- Foreign Direct Investment -
+https://unctad.org/data-visualization/global-foreign-direct-investment-flows-over-last-30-years 
+
+- Internet Access - https://data.worldbank.org/indicator/IT.NET.USER.ZS 
