@@ -63,6 +63,65 @@ These extrapolated datasets were normalized using z-score method around the mean
 
 The reason I decided to use weightage for this project was because of necessity. I think it's impossible to rank where a nation actually is purely on the basis of one factor like Economicsor Military, which is what I often see. Country's need to be ranked by various factors that aren't neccesarily directly influencing each other in order to give us a macro view of what's actually happening.
 
-This in turn leads to the weightage. Obviously not every category is going to be weighted the same, despite all of them being important. Economics is still by far the biggest section here, for obvious reasons. However, its weight is equivalent to the rest of the categories added up, balancing it out significantly.
+This in turn leads to the weightage. Obviously not every category is going to be weighted the same, despite all of them being important. Economics is still by far the biggest section here, for obvious reasons. However, its weight is equivalent to the rest of the categories added up, balancing it out significantly. 
+
+The weightage is out of 100. Weightage for each category is given below
+
+- Economics - 50/100 
+
+- Rule of Law - 10/90
+
+- Education - 10/90
+
+- Global Thinking - 15/90
+
+- Wellbeing - 15/100
+
+
+
+### Economic Weightage Breakdown
+
+- GDP/C - (15/50)  
+
+- Infrastructure - (5/50) 
+
+- GINI (Wealth Inequality Indexy) - (10/50) 
+
+- PPP (Purchasing Power Parity) Growth - (15/50) 
+
+- Labor Productivity - (5/50)  
+
+### Rule of Law Breakdown
+
+- Control of Corruption - (5/10)
+
+- Homicide Growth - (5 /10)
+
+### Education
+
+- Graduates - (4/10)
+
+- Higher Education Enrollment - (4/10)
+
+- Innovation Index - (2/10)
+
+### Global Thinking
+
+- Globalization Index (3/15)
+
+- FDI Outflow (4/15)
+
+- FDI Inflow (4/15)
+
+- Tourism (1/15)
+
+- Internet Access (3/15)
+
+### Wellbeing
+
+- Life Expectancy (10/15)
+
+- Voter Turnout (5/15)
+
 
 
